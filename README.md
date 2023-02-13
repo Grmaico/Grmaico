@@ -1,4 +1,4 @@
-### Olá! Eu sou o Maicon Matos 🔥
+### Olá! Me chamo Maicon Matos 🔥
 <br/>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
