@@ -1,8 +1,6 @@
 
 <br/>
 
-- Hoje trabalho com o front-end web/mobile
-- Estudando Java/Javascript
 
 <br/>
 
