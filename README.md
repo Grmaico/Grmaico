@@ -5,7 +5,7 @@
 <br/>
 
 [![Blog](https://img.shields.io/badge/Linkedin.com/in/maicon-matos-24b49b213/
-)](https://www.linkedin.com/in/michael-matos-dos-reis-24b49b213/)
+)]([https://www.linkedin.com/in/michael-matos-dos-reis-24b49b213/](https://www.linkedin.com/in/maicon-matos-24b49b213/))
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grmaico/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grmaico&show_icons=true&theme=dracula)
